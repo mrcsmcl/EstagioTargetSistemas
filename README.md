@@ -52,4 +52,4 @@ Eu ligo um dos interruptores e espero por um momento. Em seguida, desligo e ligo
 
 ## Pergunta 5
 
-Resposta para a pergunta 5.
+O código para inverter Strings foi implementada em C#, que pode ser acessado em [Program.cs](codes/String/Program.cs).
