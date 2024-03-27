@@ -1,7 +1,5 @@
 # Seleção Estágio - Target Sistemas Ribeirão Preto
 
-# Respostas para Perguntas
-
 ## Pergunta 1
 
 A variável SOMA vai armazenar a soma dos números de 1 até 13, já que K começa em 0 e é incrementada em cada iteração do loop. Para calcular a soma dos números de 1 até 13, podemos usar a fórmula da soma de uma progressão aritmética:
@@ -30,7 +28,23 @@ O código sobre Fibonacci foi implementada em C#, que pode ser acessado em [Prog
 
 ## Pergunta 3
 
-Resposta para a pergunta 3.
+a) 1, 3, 5, 7, ___
+A sequência está aumentando de 2 em 2. Então, o próximo número é 9.
+
+b) 2, 4, 8, 16, 32, 64, ____
+Cada número está sendo dobrado. Então, o próximo número é 128.
+
+c) 0, 1, 4, 9, 16, 25, 36, ____
+Esta sequência representa os quadrados perfeitos, começando do zero. O próximo número, que é o quadrado de 7, seria 49.
+
+d) 4, 16, 36, 64, ____
+Esta sequência é composta pelos quadrados dos números pares. O próximo número, que é o quadrado de 10, seria 100.
+
+e) 1, 1, 2, 3, 5, 8, ____
+Essa sequência é a sequência de Fibonacci, onde cada número é a soma dos dois anteriores. Então, o próximo número seria 13.
+
+f) 2, 10, 12, 16, 17, 18, 19, ____
+A sequência proposta parece seguir uma lógica baseada na linguagem. O padrão observado sugere que os números selecionados começam com a letra "D". Seguindo essa lógica, o próximo número após 19 (dezenove) seria 200 (duzentos), pois é o próximo número natural cuja nomenclatura inicia com a letra "D".
 
 ## Pergunta 4
 
