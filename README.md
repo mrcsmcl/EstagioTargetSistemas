@@ -48,7 +48,7 @@ A sequência proposta parece seguir uma lógica baseada na linguagem. O padrão 
 
 ## Pergunta 4
 
-Resposta para a pergunta 4.
+Eu ligo um dos interruptores e espero por um momento. Em seguida, desligo e ligo um segundo interruptor. Depois, vou até a sala. A lâmpada que está desligada e quente corresponde ao primeiro interruptor, a lâmpada acesa corresponde ao segundo, e a lâmpada que está apagada e fria corresponde ao terceiro interruptor.
 
 ## Pergunta 5
 
